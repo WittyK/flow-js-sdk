@@ -135,4 +135,4 @@ Use Prettier with the setting in the root `.prettierrc` file
 
 ## Additional Notes
 
-Thank you for your interest in contributing to the FCL and Flow JS SDK
+Thank you for your interest in contributing to the FCL and Flow JS SDK!
